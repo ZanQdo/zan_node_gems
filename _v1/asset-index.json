@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 911191,
+  "asset_count": 11,
+  "file_count": 8,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:7b0e7fd8146a712b95e33b836ce633046e5c4dbd8e8d2dbaa513617e219d441a"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "Geometry",
+      "uuids": [
+        "c612e9c1-c158-423f-9095-803c0bac3188"
+      ],
+      "simple_name": "Geometry"
+    },
+    {
+      "path": "Geometry/Operations",
+      "uuids": [
+        "a52f46bd-f2b7-4fe3-ba14-6b025c6a95de"
+      ],
+      "simple_name": "Geometry-Operations"
+    },
+    {
+      "path": "Mesh",
+      "uuids": [
+        "4048022e-1092-408e-8514-f355672cf78e"
+      ],
+      "simple_name": "Mesh"
+    },
+    {
+      "path": "Mesh/Primitives",
+      "uuids": [
+        "b53cc6f4-b319-4fe1-9777-c394342e0157"
+      ],
+      "simple_name": "Mesh-Primitives"
+    },
+    {
+      "path": "Mesh/UV",
+      "uuids": [
+        "a1296729-7583-4423-abd9-69e72d1846da"
+      ],
+      "simple_name": "Mesh-UV"
+    },
+    {
+      "path": "Shader",
+      "uuids": [
+        "35d1524d-4cbd-4fda-927a-cf44cc32568e"
+      ],
+      "simple_name": "Shader"
+    },
+    {
+      "path": "Utilities",
+      "uuids": [
+        "11c4b8ac-109e-4095-9387-66356f13b3e6"
+      ],
+      "simple_name": "Utilities"
+    },
+    {
+      "path": "Utilities/Vector",
+      "uuids": [
+        "02fe69ab-a02f-46e7-ab48-ce8189159fbe"
+      ],
+      "simple_name": "Utilities-Vector"
+    }
+  ]
+}

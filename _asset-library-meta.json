@@ -1,0 +1,14 @@
+{
+  "api_versions": {
+    "v1": {
+      "url": "_v1/asset-index.json",
+      "hash": "SHA256:0e2f80f34e1ea7ecfc323946840657e68a5bffa6fdd8e7d4e2a8a324551b035c"
+    }
+  },
+  "name": "Zan's Node Gems",
+  "contact": {
+    "name": "Daniel Salazar",
+    "url": "https://blenderaddon.com/",
+    "email": "contact@blenderaddon.com"
+  }
+}
