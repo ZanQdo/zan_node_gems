@@ -14,6 +14,9 @@ website = "https://blenderaddon.com/"
 
 tags = ["Geometry Nodes", "Shading"]
 
+[asset_library]
+remote_url = "https://github.com/ZanQdo/zan_node_gems"
+
 [build]
 paths_exclude_pattern = [
 "tests/",
