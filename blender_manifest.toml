@@ -25,6 +25,7 @@ paths_exclude_pattern = [
   "*.json",
   "*.txt",
   "CNAME",
+  ".nojekyll",
   ".git/",
   ".gitignore",
   "*~"
