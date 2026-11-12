@@ -24,6 +24,8 @@ paths_exclude_pattern = [
   "_v1/",
   "*.json",
   "*.txt",
+  "CNAME",
   ".git/",
-  ".gitignore"
+  ".gitignore",
+  "*~"
 ]
