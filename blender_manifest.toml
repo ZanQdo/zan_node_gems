@@ -4,7 +4,7 @@ version = "5.4.0"
 name = "Zan's Node Gems"
 tagline = "A collection of node utilities"
 maintainer = "Daniel Salazar"
-type = "asset"
+type = "asset-library"
 blender_version_min = "5.2.0"
 license = [
   "SPDX-License-Identifier: CC0-1.0"
