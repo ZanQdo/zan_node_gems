@@ -16,3 +16,14 @@ tags = ["Geometry Nodes", "Shading"]
 
 [asset_library]
 remote_url = "https://assets.blenderaddon.com/"
+
+[build]
+paths_exclude_pattern = [
+  "*.blend",
+  "*_thumbnails/",
+  "_v1/",
+  "*.json",
+  "*.txt",
+  ".git/",
+  ".gitignore"
+]
