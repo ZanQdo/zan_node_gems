@@ -2,13 +2,13 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:0e2f80f34e1ea7ecfc323946840657e68a5bffa6fdd8e7d4e2a8a324551b035c"
+      "hash": "SHA256:095c21db9b00bb5000ec604f5086450c0c138324efc168c8f1a98e365e35dbae"
     }
   },
-  "name": "Zan's Node Gems",
+  "name": "Your Asset Library",
   "contact": {
-    "name": "Daniel Salazar",
-    "url": "https://blenderaddon.com/",
-    "email": "contact@blenderaddon.com"
+    "name": "Your Name",
+    "url": "https://example.org/",
+    "email": "example@example.org"
   }
 }
